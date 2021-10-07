@@ -1,0 +1,14 @@
+{
+    "name": "simple-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Artem Kobylianskyi",
+    "license": "ISC",
+    "devDependencies": {
+        "electron": "^15.0.0-beta.7"
+    }
+}
