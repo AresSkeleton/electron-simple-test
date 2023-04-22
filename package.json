@@ -9,6 +9,6 @@
     "author": "Artem Kobylianskyi",
     "license": "ISC",
     "devDependencies": {
-        "electron": "^15.0.0-beta.7"
+        "electron": "^24.1.2"
     }
 }
